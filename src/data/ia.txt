@@ -1,0 +1,3 @@
+Prompts para IA:
+
+Actúa como ayudante de clase y explica con palabras simples cómo se usarían los conceptos de React en una app de recetas. Debes incluir una tabla breve con los siguientes temas: componente, JSX, props, useState, renderizado de listas con .map y key, y renderizado condicional. Además, responde de forma clara y sencilla por qué conviene dividir la app en componentes, qué diferencia hay entre props y estado, y da ejemplos concretos tomados de la aplicación. Usa un tono natural, simple y fácil de entender, sin que se note que todo fue escrito de forma artificial.
